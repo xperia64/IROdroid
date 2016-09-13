@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "edu.clarkson.irodroid"
+        applicationId "com.xperia64.irodroid"
         minSdkVersion 19
         targetSdkVersion 24
         versionCode 1

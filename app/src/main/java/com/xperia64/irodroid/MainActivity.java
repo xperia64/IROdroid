@@ -1,4 +1,4 @@
-package edu.clarkson.irodroid;
+package com.xperia64.irodroid;
 
 import android.content.Context;
 import android.hardware.ConsumerIrManager;

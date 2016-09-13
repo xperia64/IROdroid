@@ -1,4 +1,4 @@
-package edu.clarkson.irodroid;
+package com.xperia64.irodroid;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

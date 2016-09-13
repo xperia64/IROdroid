@@ -1,4 +1,4 @@
-package edu.clarkson.irodroid;
+package com.xperia64.irodroid;
 
 import org.junit.Test;
 
